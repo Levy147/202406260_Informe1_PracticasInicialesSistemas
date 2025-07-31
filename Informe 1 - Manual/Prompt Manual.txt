@@ -1,0 +1,16 @@
+🎯 Título del Prompt:
+Dar mantenimiento a una laptop paso a paso
+
+📝 Objetivo del Contenido:
+Generar un manual con una guía clara y detallada para dar mantenimiento a una laptop de forma segura y ordenada.
+
+📄 Descripción del Prompt (Contenido Principal):
+
+Contenido
+Dar mantenimiento a una laptop
+
+Instrucciones adicionales
+Dar mantenmiento a una laptop con los siguientes pasos, paso 1 retirar los tornillos, paso 2 qutiar la tapadera, paso 3 retirar la unidad de potencia, paso 4 retirar componentes como disco duro ram o disipadores, paso 5 limpiar, paso 6 volver a ensamblar las componentes, paso 7 colocar la tapadera, paso 8 por ultimo colocar tornillos.
+
+IA utilizada:
+https://piktochart.com/generative-ai/editor/
